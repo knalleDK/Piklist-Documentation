@@ -13,8 +13,8 @@ menuTitle: "checkbox"
     'value' => 'third', // set default value
     'choices' => array(
       'first' => 'First Choice',
-      ,'second' => 'Second Choice',
-      ,'third' => 'Third Choice'
+      'second' => 'Second Choice',
+      'third' => 'Third Choice'
     )
   ));
 ```
